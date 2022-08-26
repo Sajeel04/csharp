@@ -1,0 +1,13 @@
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.exe
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.deps.json
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.runtimeconfig.json
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.runtimeconfig.dev.json
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.dll
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\bin\Debug\netcoreapp3.1\CsharpBasics.pdb
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.csprojAssemblyReference.cache
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.csproj.CoreCompileInputs.cache
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.AssemblyInfoInputs.cache
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.AssemblyInfo.cs
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.dll
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.pdb
+C:\Users\sajeel.ahmad\source\repos\CsharpBasics\CsharpBasics\obj\Debug\netcoreapp3.1\CsharpBasics.genruntimeconfig.cache
